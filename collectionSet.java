@@ -18,6 +18,7 @@ public class collectionSet
 	    
 	    //Before Collection there is an interface which is Iterator
 	    //Create an Iterator
+	   //An Iterator is an interface in Java used to loop through elements in collections like ArrayList and HashSet.
 	    Iterator<Integer> values=al.iterator();
 	    
 	    while(values.hasNext())//it is used to check if there are more elements in a collection 
